@@ -35,3 +35,5 @@ for i in range(len(numbers)):
         continue
 print(primes)
 print(not_primes)
+
+#Это я написал GitHub
