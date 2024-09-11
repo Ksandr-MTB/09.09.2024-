@@ -51,3 +51,13 @@ get_matrix(2, 2, 10)
 get_matrix(3, 5, 42)
 get_matrix(4, 2, 13)
 get_matrix(int(input()), int(input()), int(input()))
+
+
+
+
+name=input()
+print(f"Здавствуй {name}, Вот пишу тебе письмо!" )
+
+
+
+
