@@ -57,3 +57,12 @@ print('1526412')
 a=int(input())
 b=float(input())
 c=input()
+
+
+a=int(input())
+b=float(input())
+c=input()a=int(input())
+b=float(input())
+c=input()a=int(input())
+b=float(input())
+c=input()
