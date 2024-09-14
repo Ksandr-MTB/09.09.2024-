@@ -1,8 +1,9 @@
 calls = 0
 
+
 def count_calls():
     global calls
-    calls=calls+1
+    calls = calls + 1
 
 
 def string_info():
@@ -14,6 +15,7 @@ def string_info():
     qw.append(a.lower())
     qw = tuple(qw)
     print(qw)
+
 
 def is_contains():
     count_calls()
@@ -35,4 +37,3 @@ string_info()
 is_contains()
 is_contains()
 print(calls)
-
